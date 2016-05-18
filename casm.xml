@@ -99,7 +99,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
             <item>Floating</item>
             <item>String</item>
             <item>List</item>
-            <item>Tupple</item>
+            <item>Tuple</item>
         </list>
         <contexts>
             <context attribute="Normal Text" lineEndContext="#stay" name="Normal">
