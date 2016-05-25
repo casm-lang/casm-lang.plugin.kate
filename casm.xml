@@ -33,8 +33,8 @@ with this program; if not, write to the Free Software Foundation, Inc.,
             <item>diedie</item>
             <item>impossible</item>
             <item>skip</item>
-            <item>seqblock</item>
-            <item>endseqblock</item>
+            <item>seq</item>
+            <item>endseq</item>
             <item>par</item>
             <item>endpar</item>
             <item>if</item>
