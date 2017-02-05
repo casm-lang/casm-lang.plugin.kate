@@ -1,47 +1,12 @@
 [[https://github.com/casm-lang/casm-lang.logo/raw/master/etc/headline.png]]
 
-* casm-lang.plugin.emacs
+* casm-lang.plugin.kate
 
-TBD
+Kate/KDevelop syntax highlighting for the CASM language
 
-#+begin_src
-
-# Kate/KDevelop syntax highlighting for the CASM language
-
-* What is CASM?
-
-See https://www.complang.tuwien.ac.at/gergo/papers/lezuo-casm.pdf
-
-* How can I use it?
+** How to use it?
 
 Just copy the casm.xml file to ~/.local/share/org.kde.syntax-highlighting/syntax/
-
-
-Syntax highlighting for the CASM language,
-see https://www.complang.tuwien.ac.at/gergo/papers/lezuo-casm.pdf
-
-Copyright (C) 2016, Emmanuel Pescosta <emmanuelpescosta099@gmail.com>
-
-Based on the go.xml syntax file from KDE's Kate project
-Copyright (C) 2010, Miquel Sabaté <mikisabate@gmail.com>
-
-This program, including associated files, is free software.  You may
-distribute it and/or modify it under the terms of the GNU General Public
-License as published by the Free Software Foundation; either Version 2 of
-the license, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but
-WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
-for more details.
-
-You should have received a copy of the GNU General Public License along
-with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
-
-
-#+end_src
-
 
 ** Copyright and License
 
