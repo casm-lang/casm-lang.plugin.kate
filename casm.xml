@@ -7,6 +7,9 @@
     
     Developed by: Emmanuel Pescosta
                   https://github.com/casm-lang/casm-lang.plugin.kate
+
+    Based on the go.xml syntax file from KDE's Kate project
+    Copyright (C) 2010, Miquel Sabaté <mikisabate@gmail.com>
     
     This file is part of casm-lang.plugin.kate.
     
