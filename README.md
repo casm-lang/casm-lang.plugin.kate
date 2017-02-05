@@ -6,7 +6,7 @@ See https://www.complang.tuwien.ac.at/gergo/papers/lezuo-casm.pdf
 
 * How can I use it?
 
-Just copy the casm.xml file to ~/.local/share/katepart5/syntax/
+Just copy the casm.xml file to ~/.local/share/org.kde.syntax-highlighting/syntax/
 
 
 
