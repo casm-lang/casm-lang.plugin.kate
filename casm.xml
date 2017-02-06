@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE language SYSTEM "language.dtd">
 <!--
-
-    Copyright (c) 2016-2017 CASM Organization
-    All rights reserved.
-    
-    Developed by: Emmanuel Pescosta
-                  https://github.com/casm-lang/casm-lang.plugin.kate
-
-    Based on the go.xml syntax file from KDE's Kate project
-    Copyright (C) 2010, Miquel Sabaté <mikisabate@gmail.com>
-    
-    This file is part of casm-lang.plugin.kate.
-    
-    casm-lang.plugin.kate is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-    
-    casm-lang.plugin.kate is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-    GNU General Public License for more details.
-    
-    You should have received a copy of the GNU General Public License
-    along with casm-lang.plugin.kate. If not, see <http://www.gnu.org/licenses/>.
-
-    -->
+  
+  Copyright (c) 2016-2017 CASM Organization
+  All rights reserved.
+  
+  Developed by: Emmanuel Pescosta
+                Philipp Paulweber
+                https://github.com/casm-lang/casm-lang.plugin.kate
+  
+  This file is part of casm-lang.plugin.kate.
+  
+  casm-lang.plugin.kate is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+  
+  casm-lang.plugin.kate is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public License
+  along with casm-lang.plugin.kate. If not, see <http://www.gnu.org/licenses/>.
+  
+  Based on the GPL2 licensed go.xml syntax file from KDE's Kate project:
+  Copyright (c) 2010, Miquel Sabaté <mikisabate@gmail.com>
+  
+-->
 
 <language name="CASM" section="Sources" extensions="*.casm" indenter="cstyle"
           author="Emmanuel Pescosta (emmanuelpescosta099@gmail.com)" license="GPL"
