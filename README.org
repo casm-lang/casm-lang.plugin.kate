@@ -23,6 +23,16 @@
 #   Based on the GPL2 licensed go.xml syntax file from KDE's Kate project:
 #   Copyright (c) 2010, Miquel Sabaté <mikisabate@gmail.com>
 # 
+
+#+begin_html
+<h4>
+⚠️
+This repository has been archived and its development work moved to the
+<a href="https://github.com/sealangdotorg/sea">SEA language</a> project.
+<hr>
+</h4>
+#+end_html
+
 [[https://github.com/casm-lang/casm-lang.logo/raw/master/etc/headline.png]]
 
 * casm-lang.plugin.kate
